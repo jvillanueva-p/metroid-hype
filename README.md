@@ -95,10 +95,11 @@ The main ones (the full list is in section 9 of the notebook):
 
 ## Related research
 
-- Schaer, Kourentzes & Fildes (2026). *Analogy-based life cycle forecasts with pre-release buzz.* European Journal of Operational Research, 333(1), 88–100. Pre-release search traffic, combined with earlier games of the same series, improved video game sales forecasts by up to 21%, with useful information up to 18 weeks before release.
-- Ruohonen & Hyrynsalmi (2017). *Evaluating the use of internet search volumes for time series modeling of sales in the video game industry.* Electronic Markets. For nearly 100 games, searches and weekly sales mostly move together in the same week, and search data adds only limited forecasting power.
+
 - Burmester, Becker, van Heerde & Clement (2015). *The impact of pre- and post-launch publicity and advertising on new product sales.* International Journal of Research in Marketing, 32(4), 408–417. Across 3,336 video games, publicity worked better than advertising before launch, and advertising worked better after.
 - Houston, Kupfer, Hennig-Thurau & Spann (2018). *Pre-release consumer buzz.* Journal of the Academy of Marketing Science, 46, 338–360.
+- Ruohonen & Hyrynsalmi (2017). *Evaluating the use of internet search volumes for time series modeling of sales in the video game industry.* Electronic Markets. For nearly 100 games, searches and weekly sales mostly move together in the same week, and search data adds only limited forecasting power.
+- Schaer, Kourentzes & Fildes (2026). *Analogy-based life cycle forecasts with pre-release buzz.* European Journal of Operational Research, 333(1), 88–100. Pre-release search traffic, combined with earlier games of the same series, improved video game sales forecasts by up to 21%, with useful information up to 18 weeks before release.
 
 This project adds a simple split to that work: the fan base a franchise already has versus the jump at the reveal.
 
