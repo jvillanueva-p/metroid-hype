@@ -1,0 +1,45 @@
+game_title,sales_millions,sales_as_of,release_date,genre,developer,publisher,platform,band,draw_order,status
+Paper Mario: The Origami King,3.47,2022-12-31,2020-07-17,Role-playingaction-adventure,Intelligent Systems,Nintendo,Switch,high (2.5-4M),1,draw
+Yoshi's Crafted World,3.35,2022-12-31,2019-03-29,Platformer,Good-Feel,Nintendo,Switch,high (2.5-4M),2,draw
+Mario Strikers: Battle League,2.54,2023-03-31,2022-06-10,Sports,Next Level Games,Nintendo,Switch,high (2.5-4M),3,draw
+1-2-Switch,3.74,2022-12-31,2017-03-03,Party,Nintendo EPD,Nintendo,Switch,high (2.5-4M),4,draw
+Super Mario RPG,3.31,2024-03-31,2023-11-17,Role-playing,ArtePiazza,Nintendo,Switch,high (2.5-4M),5,draw
+Super Mario Galaxy,2.6,2026-03-31,2025-10-02,Platformer,Nintendo Software Technologies,Nintendo,Switch,high (2.5-4M),6,backup
+Arms,2.72,2022-12-31,2017-06-16,Fighting,Nintendo EPD,Nintendo,Switch,high (2.5-4M),7,backup
+Super Mario Galaxy 2,2.76,2026-03-31,2025-10-02,Platformer,Nintendo Software Technologies,Nintendo,Switch,high (2.5-4M),8,backup
+Xenoblade Chronicles 2,2.7,2022-12-31,2017-12-01,Action role-playing,Monolith Soft,Nintendo,Switch,high (2.5-4M),9,backup
+New Pokémon Snap,2.74,2022-05-15,2021-04-30,Photography,Bandai Namco Studios,JP: The Pokémon CompanyNA/PAL: Nintendo,Switch,high (2.5-4M),10,backup
+Pikmin 4,3.48,2024-03-31,2023-07-21,Real-time strategy,Nintendo EPD,Nintendo,Switch,high (2.5-4M),11,backup
+Mario Kart Live: Home Circuit,1.73,2022-12-31,2020-10-16,Kart racingaugmented reality,Velan Studios,Nintendo,Switch,mid (1.5-2.5M),1,draw
+Big Brain Academy: Brain vs. Brain,1.94,2022-12-31,2021-12-03,Puzzle,"Nintendo EPD, indieszero",Nintendo,Switch,mid (1.5-2.5M),2,draw
+Miitopia,1.79,2022-12-31,2021-05-21,Role-playing,Grezzo,Nintendo,Switch,mid (1.5-2.5M),3,draw
+Pokkén Tournament DX,1.54,2022-01-02,2017-09-22,Fighting,Bandai Namco Studios,JP: The Pokémon CompanyNA/PAL: Nintendo,Switch,mid (1.5-2.5M),4,draw
+Mario Golf: Super Rush,2.48,2022-12-31,2021-06-25,Sports,Camelot Software Planning,Nintendo,Switch,mid (1.5-2.5M),5,backup
+Fire Emblem Engage,1.61,2023-03-31,2023-01-20,Tactical role-playing,Intelligent Systems,Nintendo,Switch,mid (1.5-2.5M),6,backup
+Xenoblade Chronicles: Definitive Edition,1.88,2022-12-31,2020-05-29,Action role-playing,Monolith Soft,Nintendo,Switch,mid (1.5-2.5M),7,backup
+Marvel Ultimate Alliance 3: The Black Order,1.6,2022-12-31,2019-07-19,Action role-playing,Team Ninja,Nintendo,Switch,mid (1.5-2.5M),8,backup
+Captain Toad: Treasure Tracker,2.35,2022-12-31,2018-07-13,Puzzle-platform,Nintendo EPD,Nintendo,Switch,mid (1.5-2.5M),9,backup
+Pokémon Mystery Dungeon: Rescue Team DX,1.99,2022-12-31,2020-03-06,Roguelike,Spike Chunsoft,Nintendo,Switch,mid (1.5-2.5M),10,backup
+Octopath Traveler,2.16,2022-01-02,2018-07-13,Role-playing,Square EnixAcquire,JP: Square EnixNA/PAL: Nintendo,Switch,mid (1.5-2.5M),11,backup
+Paper Mario: The Thousand-Year Door,2.1,2025-03-31,2024-05-23,Role-playing,Intelligent Systems,Nintendo,Switch,mid (1.5-2.5M),12,backup
+Luigi's Mansion 2 HD,1.88,2025-03-31,2024-06-27,Action-Adventure,Tantalus Media,Nintendo,Switch,mid (1.5-2.5M),13,backup
+Xenoblade Chronicles 3,1.86,2023-03-31,2022-07-29,Action role-playing,Monolith Soft,Nintendo,Switch,mid (1.5-2.5M),14,backup
+Mario & Luigi: Brothership,1.97,2025-03-31,2024-11-07,Role-playing,Acquire,Nintendo,Switch,mid (1.5-2.5M),15,backup
+Pikmin 3 Deluxe,2.4,2022-12-31,2020-10-30,Real-time strategy,Eighting,Nintendo,Switch,mid (1.5-2.5M),16,backup
+Game Builder Garage,1.15,2022-12-31,2021-06-11,Programming,Nintendo EPD,Nintendo,Switch,low (1.0-1.5M),1,draw
+Bayonetta 3,1.07,2023-03-31,2022-10-28,Action-adventurehack and slash,PlatinumGames,Nintendo,Switch,low (1.0-1.5M),2,draw
+Bayonetta,1.24,2022-12-31,2018-02-16,Action-adventurehack and slash,PlatinumGames,Nintendo,Switch,low (1.0-1.5M),3,draw
+Fire Emblem Warriors: Three Hopes,1.0,2022-08-17,2022-06-24,Hack and slashRole-playing,Omega Force,JP: Koei TecmoNA/PAL: Nintendo,Switch,low (1.0-1.5M),4,draw
+Rhythm Heaven Groove,1.0,2026-09-13,2026-07-02,"Rhythm, Music",Nintendo EPD,Nintendo,Switch,low (1.0-1.5M),5,backup
+Kirby's Return to Dream Land Deluxe,1.46,2023-03-31,2023-02-24,Platformer,HAL Laboratory,Nintendo,Switch,low (1.0-1.5M),6,backup
+Metroid Prime Remastered,1.09,2023-03-31,2023-02-08,Action-adventure,Retro Studios,Nintendo,Switch,low (1.0-1.5M),7,backup
+Fitness Boxing,1.0,2020-09-08,2018-12-20,Exergamerhythm,Imagineer,JP: ImagineerNA/PAL: Nintendo,Switch,low (1.0-1.5M),8,backup
+Fitness Boxing 2: Rhythm and Exercise,1.0,2021-12-09,2020-12-04,Exergamerhythm,Imagineer,JP: ImagineerNA/PAL: Nintendo,Switch,low (1.0-1.5M),9,backup
+WarioWare: Get It Together!,1.34,2022-12-31,2021-09-10,Party,Intelligent Systems,Nintendo,Switch,low (1.0-1.5M),10,backup
+Donkey Kong Country Returns HD,1.27,2025-03-31,2025-01-16,Platformer,Forever Entertainment,Nintendo,Switch,low (1.0-1.5M),11,backup
+Astral Chain,1.33,2022-12-31,2019-08-30,Action-adventurehack and slash,PlatinumGames,Nintendo,Switch,low (1.0-1.5M),12,backup
+Princess Peach: Showtime!,1.3,2024-06-30,2024-03-22,Action-adventure,Good-Feel,Nintendo,Switch,low (1.0-1.5M),13,backup
+Bayonetta 2,1.23,2022-12-31,2018-02-16,Action-adventurehack and slash,PlatinumGames,Nintendo,Switch,low (1.0-1.5M),14,backup
+Mario vs. Donkey Kong,1.12,2024-03-31,2024-02-16,Puzzle-platform,Nintendo Software Technology,Nintendo,Switch,low (1.0-1.5M),15,backup
+Dr Kawashima's Brain Training for Nintendo Switch,1.27,2022-12-31,2019-12-27,Puzzle,"Nintendo EPD, indieszero",Nintendo,Switch,low (1.0-1.5M),16,backup
+Nintendo Labo Toy-Con 01: Variety Kit,1.42,2020-12-31,2018-04-20,Construction kit,Nintendo EPD,Nintendo,Switch,low (1.0-1.5M),17,backup

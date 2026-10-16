@@ -1,0 +1,8 @@
+signal,signal_type,correlation,ci_low,ci_high,n_games,clear_link
+Fan base before the reveal,How many people care,0.59,0.3,0.77,40,True
+Attention in the month after,How many people care,0.59,0.34,0.76,40,True
+Trailer views per day,How many people care,0.56,0.23,0.76,33,True
+Reveal jump,How excited they are,-0.18,-0.49,0.21,40,False
+Days of elevated interest,How excited they are,-0.12,-0.46,0.26,40,False
+Trailer like rate,How excited they are,0.02,-0.42,0.38,33,False
+Trailer comment rate,How excited they are,0.05,-0.38,0.45,26,False
